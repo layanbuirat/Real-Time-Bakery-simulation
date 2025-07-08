@@ -1,6 +1,8 @@
 # 🍞 Bakery Management Simulation System 🧁
 
-(bakery.gif)
+<div align="center">
+  <img src="bakery.gif" width="800" alt="barkry">
+</div>
 
 ## 📚 Table of Contents
 1. [🎯 Project Overview](#project-overview)
