@@ -1,0 +1,13 @@
+num_chefs=8
+num_bakers=9
+num_sellers=3
+num_supply_chain=2
+max_customers=25
+profit_threshold=100
+time_limit=10
+max_frustrated_customers=10
+max_complaining_customers=5
+max_missing_item_customers=4
+simulation_time_limit=400
+simulation_running=true
+
