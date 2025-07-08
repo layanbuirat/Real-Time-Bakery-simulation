@@ -1,6 +1,6 @@
 # 🍞 Bakery Management Simulation System 🧁
 
-![Bakery Demo](bakery.gif)
+(bakery.gif)
 
 ## 📚 Table of Contents
 1. [🎯 Project Overview](#project-overview)
